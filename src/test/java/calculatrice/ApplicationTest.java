@@ -1,4 +1,4 @@
-package org.formation.java;
+package calculatrice;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
